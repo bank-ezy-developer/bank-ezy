@@ -1,9 +1,7 @@
 # BEZCoin
 What is BEZ? - Get more information here: 
-https://bit-media.org/news/what-is-bez/
+https://bank-ezy.com
 
-Join the encryption of things community here:
-http://encryptionofthings.org
 
 ## BEZCoin Node Source Code
 
@@ -71,6 +69,3 @@ Add the following, save and exit:
 
 Run BEZCoind once more and if you did everything correctly, your daemon is now online! Type BEZCoind help for a full list of commands available. 
 
-### To help our developers code faster, please buy them some coffee:
-    BEZ Wallet: EXuU6PAJxD5qmVYAhYkusLZcgZ36T1aNJP
-    BTC Wallet: 13v41hEUHrxfpM3L7kqvLNnaxvsgMqnXL2
