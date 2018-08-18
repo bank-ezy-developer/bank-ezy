@@ -34,7 +34,7 @@ Add this at the bottom: /swapfile none swap sw 0 0
     apt-get install ntp unzip git build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev libqrencode-dev aptitude && aptitude install miniupnpc libminiupnpc-dev
 
 ### Pull the source code from github, or upload it yourself:
-    git clone https://github.com/bank-ezy-developer/BEZCoin.git
+    git clone https://github.com/bank-ezy-developer/bank-ezy.git
 
 ### compile leveldb:
     cd /BEZCoin/src/leveldb
